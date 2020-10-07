@@ -1,0 +1,2 @@
+# ady-resolusi
+repository rencana
